@@ -12,7 +12,7 @@ namespace SubmoduleClasslibrary
         }
         public int mul(int value1, int value2)
         {
-            return value1 * value2;
+            return value1 * value2 * 1;
         }
 
         public int sub(int value1, int value2)
